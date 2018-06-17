@@ -7,6 +7,7 @@ public class Calculator {
     Scanner sc = new Scanner (System.in);
     private float a = 0;
     private float b = 0;
+    private float c = 0;
 
     public void count() {
 
